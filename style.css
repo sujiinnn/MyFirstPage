@@ -153,6 +153,11 @@ header {
     
 }
 
+.news-header a {
+    text-decoration: none;
+    color: black;
+}
+
 .news-header h2 {
     text-align: center;
     font-size: 2rem;
